@@ -1,0 +1,11 @@
+{
+  "policies":{
+    "Bookmarks":[
+      {
+        "Title":"Impact",
+        "URL":"https://impact.codeninjas.com/login",
+        "Placement":"toolbar",
+      }
+    ]
+  }
+}
