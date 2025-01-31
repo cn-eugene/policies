@@ -20,9 +20,11 @@
     },
     "BlockAboutConfig": true,
     "BlockAboutAddons": true,
-    "Extensions": {
-      "Install": ["https://addons.mozilla.org/firefox/downloads/file/3039026/forcesafesearch-1.6.xpi"],
-      "Locked":  ["97084f23-d3c7-4390-bb80-a477a956dc36"]
+    "ExtensionSettings": {
+      "{97084f23-d3c7-4390-bb80-a477a956dc36}": {
+        "installation_mode": "force_installed",
+        "install_url": "https://addons.mozilla.org/firefox/downloads/file/3039026/forcesafesearch-1.6.xpi"
+      }
     }
   }
 }
