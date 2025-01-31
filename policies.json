@@ -1,11 +1,22 @@
 {
   "policies":{
-    "Bookmarks":[
+     "ManagedBookmarks": [
       {
-        "Title":"Impact",
-        "URL":"https://impact.codeninjas.com/login",
-        "Placement":"toolbar"
+        "toplevel_name": "Code Ninjas"
+      },
+      {
+        "url": "https://impact.codeninjas.com/login",
+        "name": "IMPACT"
+      },
+      {
+        "url": "tinkercad.com",
+        "name": "Tinkercad"
       }
-    ]
+     ]
+    "Homepage": {
+      "URL": "https://impact.codeninjas.com/login",
+      "Locked": true,
+      "StartPage": "homepage"
+    }
   }
 }
