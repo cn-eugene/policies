@@ -22,7 +22,7 @@
     "BlockAboutAddons": true,
     "Extensions": {
       "Install": ["https://addons.mozilla.org/firefox/downloads/file/3039026/forcesafesearch-1.6.xpi"],
-      "Locked":  ["767ab4f1-a7e3-42a1-9c22-bf2510363c35"]
+      "Locked":  ["97084f23-d3c7-4390-bb80-a477a956dc36"]
     }
   }
 }
