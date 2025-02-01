@@ -24,7 +24,7 @@
       "{97084f23-d3c7-4390-bb80-a477a956dc36}": {
         "installation_mode": "force_installed",
         "install_url": "https://addons.mozilla.org/firefox/downloads/file/3039026/forcesafesearch-1.6.xpi"
-      }
+      },
       "uBlock0@raymondhill.net": {
         "installation_mode": "force_installed"
         "install_url": "https://addons.mozilla.org/firefox/downloads/file/4412673/ublock_origin-1.62.0.xpi"
