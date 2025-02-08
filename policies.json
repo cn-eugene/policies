@@ -20,6 +20,7 @@
     },
     "BlockAboutConfig": true,
     "BlockAboutAddons": true,
+    "DisablePrivateBrowsing": true,
     "ExtensionSettings": {
       "{97084f23-d3c7-4390-bb80-a477a956dc36}": {
         "installation_mode": "force_installed",
