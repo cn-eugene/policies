@@ -22,6 +22,11 @@
     "BlockAboutAddons": true,
     "DisablePrivateBrowsing": true,
     "DisableSafeMode": true,
+    "DisableFirefoxAccounts": true,
+    "DisableProfileImport": true,
+    "DontCheckDefaultBrowser": true,
+    "DisplayBookmarksToolbar": true,
+    "DisplayMenuBar": true,
     "ExtensionSettings": {
       "{97084f23-d3c7-4390-bb80-a477a956dc36}": {
         "installation_mode": "force_installed",
