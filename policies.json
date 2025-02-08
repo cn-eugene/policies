@@ -1,6 +1,31 @@
 {
   "policies":{
-     "ManagedBookmarks": [
+    "BlockAboutAddons": true,
+    "BlockAboutConfig": true,
+    "DisableAppUpdate": true,
+    "DisableFirefoxAccounts": true,
+    "DisablePrivateBrowsing": true,
+    "DisableProfileImport": true,
+    "DisableSafeMode": true,
+    "DisplayBookmarksToolbar": true,
+    "DisplayMenuBar": true,
+    "DontCheckDefaultBrowser": true,
+    "ExtensionSettings": {
+      "{97084f23-d3c7-4390-bb80-a477a956dc36}": {
+        "installation_mode": "force_installed",
+        "install_url": "https://addons.mozilla.org/firefox/downloads/file/3039026/forcesafesearch-1.6.xpi"
+      },
+      "uBlock0@raymondhill.net": {
+        "installation_mode": "force_installed",
+        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi"
+      }
+    },
+    "Homepage": {
+      "URL": "https://impact.codeninjas.com/login",
+      "Locked": true,
+      "StartPage": "homepage"
+    },
+    "ManagedBookmarks": [
       {
         "toplevel_name": "Code Ninjas"
       },
@@ -12,31 +37,6 @@
         "url": "tinkercad.com",
         "name": "Tinkercad"
       }
-     ],
-    "Homepage": {
-      "URL": "https://impact.codeninjas.com/login",
-      "Locked": true,
-      "StartPage": "homepage"
-    },
-    "BlockAboutConfig": true,
-    "BlockAboutAddons": true,
-    "DisablePrivateBrowsing": true,
-    "DisableSafeMode": true,
-    "DisableFirefoxAccounts": true,
-    "DisableProfileImport": true,
-    "DontCheckDefaultBrowser": true,
-    "DisplayBookmarksToolbar": true,
-    "DisplayMenuBar": true,
-    "ExtensionSettings": {
-      "{97084f23-d3c7-4390-bb80-a477a956dc36}": {
-        "installation_mode": "force_installed",
-        "install_url": "https://addons.mozilla.org/firefox/downloads/file/3039026/forcesafesearch-1.6.xpi"
-      },
-      "uBlock0@raymondhill.net": {
-        "installation_mode": "force_installed",
-        "install_url": "https://addons.mozilla.org/firefox/downloads/latest/ublock-origin/latest.xpi"
-      }
-    },
-    "DisableAppUpdate": true
+     ]
   }
 }
