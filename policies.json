@@ -41,6 +41,7 @@
         "Status": "locked"
       }
     },
+    "SearchSuggestEnabled": false,
     "UserMessaging": {
       "ExtensionRecommendations": false,
       "FeatureRecommendations": false,
