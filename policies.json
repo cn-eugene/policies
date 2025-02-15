@@ -4,11 +4,11 @@
     "BlockAboutConfig": true,
     "DisableAppUpdate": true,
     "DisableFirefoxAccounts": true,
+    "DisablePocket": true,
     "DisablePrivateBrowsing": true,
     "DisableProfileImport": true,
     "DisableSafeMode": true,
     "DisplayBookmarksToolbar": true,
-    "DisplayMenuBar": true,
     "DontCheckDefaultBrowser": true,
     "ExtensionSettings": {
       "{97084f23-d3c7-4390-bb80-a477a956dc36}": {
@@ -27,9 +27,6 @@
     },
     "ManagedBookmarks": [
       {
-        "toplevel_name": "Code Ninjas"
-      },
-      {
         "url": "https://impact.codeninjas.com/login",
         "name": "IMPACT"
       },
@@ -37,6 +34,12 @@
         "url": "tinkercad.com",
         "name": "Tinkercad"
       }
-     ]
+    ],
+    "Preferences": {
+      "browser.theme.content-theme": {
+        "Value": 0,
+        "Status": "locked"
+      }
+    }
   }
 }
