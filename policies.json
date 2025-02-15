@@ -2,6 +2,16 @@
   "policies":{
     "BlockAboutAddons": true,
     "BlockAboutConfig": true,
+    "Bookmarks": [
+      {
+        "Title": "IMPACT",
+        "URL": "https://impact.codeninjas.com/login"
+      },
+      {
+        "Title": "Tinkercad",
+        "URL": "https://tinkercad.com"
+      }
+    ],
     "DisableAppUpdate": true,
     "DisableFirefoxAccounts": true,
     "DisableTelemetry": true,
@@ -22,7 +32,7 @@
       }
     },
     "FirefoxHome": {
-      "Search": true,
+      "Search": false,
       "TopSites": false,
       "SponsoredTopSites": false,
       "Highlights": false,
@@ -42,7 +52,7 @@
         "name": "IMPACT"
       },
       {
-        "url": "tinkercad.com",
+        "url": "https://tinkercad.com",
         "name": "Tinkercad"
       }
     ],
