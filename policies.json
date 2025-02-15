@@ -4,6 +4,7 @@
     "BlockAboutConfig": true,
     "DisableAppUpdate": true,
     "DisableFirefoxAccounts": true,
+    "DisableTelemetry": true,
     "DisablePocket": true,
     "DisablePrivateBrowsing": true,
     "DisableProfileImport": true,
