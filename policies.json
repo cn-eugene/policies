@@ -24,7 +24,7 @@
     "FirefoxHome": {
       "Search": true,
       "TopSites": false,
-      "SponsoredTopSites": tfalse,
+      "SponsoredTopSites": false,
       "Highlights": false,
       "Pocket": false,
       "SponsoredPocket": false,
