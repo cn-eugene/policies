@@ -46,16 +46,6 @@
       "Locked": true,
       "StartPage": "homepage"
     },
-    "ManagedBookmarks": [
-      {
-        "url": "https://impact.codeninjas.com/login",
-        "name": "IMPACT"
-      },
-      {
-        "url": "https://tinkercad.com",
-        "name": "Tinkercad"
-      }
-    ],
     "Preferences": {
       "browser.theme.content-theme": {
         "Value": 0,
