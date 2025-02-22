@@ -40,6 +40,7 @@
       "jid1-dqs9BdQga04hBw@jetpack": {
         "installation_mode": "force_installed",
         "install_url": "https://addons.mozilla.org/firefox/downloads/file/4413942/text_to_speech_webext-0.2.8.xpi"
+      },
     },
     "FirefoxHome": {
       "Search": false,
