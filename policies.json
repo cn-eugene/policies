@@ -2,23 +2,6 @@
   "policies":{
     "BlockAboutAddons": true,
     "BlockAboutConfig": true,
-    "ManagedBookmarks": [
-      {
-        "toplevel_name": "Links"
-      },
-      {
-        "name": "IMPACT",
-        "url": "https://impact.codeninjas.com/login"
-      },
-      {
-        "name": "Tinkercad",
-        "url": "https://tinkercad.com"
-      },
-      {
-        "name": "Tours - GBS",
-        "url": "https://forms.codeninjas.com/gamebuilding"
-      }
-    ],
     "DisableAppUpdate": true,
     "DisableFirefoxAccounts": true,
     "DisableTelemetry": true,
@@ -42,12 +25,29 @@
         "install_url": "https://addons.mozilla.org/firefox/downloads/file/4413942/text_to_speech_webext-0.2.8.xpi"
       }
     },
-    "NewTabPage": true,
     "Homepage": {
       "URL": "https://impact.codeninjas.com/login",
       "Locked": true,
       "StartPage": "homepage"
     },
+        "ManagedBookmarks": [
+      {
+        "toplevel_name": "Links"
+      },
+      {
+        "name": "IMPACT",
+        "url": "https://impact.codeninjas.com/login"
+      },
+      {
+        "name": "Tinkercad",
+        "url": "https://tinkercad.com"
+      },
+      {
+        "name": "Tours - GBS",
+        "url": "https://forms.codeninjas.com/gamebuilding"
+      }
+    ],
+    "NewTabPage": true,
     "Preferences": {
       "browser.theme.content-theme": {
         "Value": 0,
