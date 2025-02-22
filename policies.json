@@ -47,7 +47,7 @@
         "url": "https://forms.codeninjas.com/gamebuilding"
       }
     ],
-    "NewTabPage": true,
+    "NewTabPage": false,
     "Preferences": {
       "browser.theme.content-theme": {
         "Value": 0,
