@@ -2,21 +2,21 @@
   "policies":{
     "BlockAboutAddons": true,
     "BlockAboutConfig": true,
-    "Bookmarks": [
+    "ManagedBookmarks": [
       {
         "toplevel_name": "Links"
       },
       {
-        "Title": "IMPACT",
-        "URL": "https://impact.codeninjas.com/login"
+        "name": "IMPACT",
+        "url": "https://impact.codeninjas.com/login"
       },
       {
-        "Title": "Tinkercad",
-        "URL": "https://tinkercad.com"
+        "name": "Tinkercad",
+        "url": "https://tinkercad.com"
       },
       {
-        "Title": "Tours - GBS",
-        "URL": "https://forms.codeninjas.com/gamebuilding"
+        "name": "Tours - GBS",
+        "url": "https://forms.codeninjas.com/gamebuilding"
       }
     ],
     "DisableAppUpdate": true,
