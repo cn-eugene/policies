@@ -42,16 +42,7 @@
         "install_url": "https://addons.mozilla.org/firefox/downloads/file/4413942/text_to_speech_webext-0.2.8.xpi"
       }
     },
-    "FirefoxHome": {
-      "Search": false,
-      "TopSites": false,
-      "SponsoredTopSites": false,
-      "Highlights": false,
-      "Pocket": false,
-      "SponsoredPocket": false,
-      "Snippets": false,
-      "Locked": true
-    },
+    "NewTabPage": true,
     "Homepage": {
       "URL": "https://impact.codeninjas.com/login",
       "Locked": true,
